@@ -1,2 +1,2 @@
-# gestao-de-estoque
+# Gestão de estoque
 Sistema desenvolvido para trabalho da UNIVESP 
